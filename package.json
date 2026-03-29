@@ -35,7 +35,7 @@
   },
   "overrides": {
     "semver": "^7.6.0",
-    "tar": "^6.2.1",
+    "tar": "^7.5.13",
     "@octokit/plugin-paginate-rest": "^14.0.0",
     "@octokit/request": "^10.0.7",
     "@octokit/request-error": "^7.1.0",
