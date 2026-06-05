@@ -40,7 +40,7 @@
     "@octokit/request": "^10.0.7",
     "@octokit/request-error": "^7.1.0",
     "@octokit/core": "^7.0.6",
-    "tmp": "^0.2.4",
+    "tmp": "^0.2.7",
     "@types/node": "^24.1.0",
     "brace-expansion": "^2.0.2",
     "form-data": "^4.0.4",
