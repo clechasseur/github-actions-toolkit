@@ -41,7 +41,7 @@
   "devDependencies": {
     "@types/node": "24.1.0",
     "@types/tunnel": "0.0.3",
-    "proxy": "^2.1.1",
+    "proxy": "^4.1.0",
     "@types/proxy": "^1.0.1"
   },
   "dependencies": {
