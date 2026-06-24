@@ -34,7 +34,7 @@
     "typescript": "^5.2.2"
   },
   "overrides": {
-    "semver": "^7.6.0",
+    "semver": "^7.8.5",
     "tar": "^6.2.1",
     "@octokit/plugin-paginate-rest": "^14.0.0",
     "@octokit/request": "^10.0.7",
