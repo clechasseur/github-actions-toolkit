@@ -48,7 +48,7 @@
     "@octokit/plugin-retry": "^6.0.1",
     "@sigstore/bundle": "^3.1.0",
     "@sigstore/sign": "^3.1.0",
-    "jose": "^5.10.0"
+    "jose": "^6.2.10"
   },
   "overrides": {
     "@octokit/plugin-retry": {
