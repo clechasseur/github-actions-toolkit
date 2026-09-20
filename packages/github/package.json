@@ -40,8 +40,8 @@
   "dependencies": {
     "@actions/http-client": "^3.0.1",
     "@octokit/core": "^7.0.6",
-    "@octokit/plugin-paginate-rest": "^14.0.0",
-    "@octokit/plugin-rest-endpoint-methods": "^17.0.0",
+    "@octokit/plugin-paginate-rest": "^15.0.0",
+    "@octokit/plugin-rest-endpoint-methods": "^18.0.0",
     "@octokit/request": "^10.0.7",
     "@octokit/request-error": "^7.1.0",
     "undici": "^5.28.5"
